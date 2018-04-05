@@ -1,3 +1,11 @@
+# 声明
+下面是原始的README.md, 做了以下几件事
+
+[x] 字体修改
+[x] 汉化
+[x] 微调结构
+[x] css CSDN替换
+
 # hugo-coder
 
 A simple and clean blog theme for Hugo.
