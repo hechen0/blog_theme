@@ -1,10 +1,10 @@
 # 声明
 下面是原始的README.md, 做了以下几件事
 
-[x] 字体修改
-[x] 汉化
-[x] 微调结构
-[x] css CSDN替换
+- [x] 字体修改
+- [x] 汉化
+- [x] 微调结构
+- [x] css CDN替换
 
 # hugo-coder
 
